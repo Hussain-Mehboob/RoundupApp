@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Round Up</string>
+    <string name="welcome_title">Welcome to the Sample Compose App by Hussain Mehboob</string>
+    <string name="welcome_description">Please refer to the README for more information.</string>
+</resources>
